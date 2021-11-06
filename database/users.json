@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "firstName": "Kamoliddin",
+        "lastName": "Jamoliddinov",
+        "email": "k@gmail.com",
+        "password": "Kamoliddin$7"
+    },
+    {
+        "id": 2,
+        "firstName": "Durdona",
+        "lastName": "Usmanova",
+        "email": "d@gmail.com",
+        "password": "Durdona$7"
+    },
+    {
+        "id": 3,
+        "firstName": "Umida",
+        "lastName": "Hanimqulova",
+        "email": "u@gmail.com",
+        "password": "Umida$7"
+    },
+    {
+        "id": 4,
+        "firstName": "Sevinch",
+        "lastName": "Jalolova",
+        "email": "m@gmail.com",
+        "password": "Dilshoda$7"
+    }
+]
